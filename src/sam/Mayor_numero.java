@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Mayor_numero {
 	public static void main(String[] args) {
-	//Dado los números 56, 34, 120  mostrar el mayor de ellos.
+	//Dado los números 56, 34, 120  Mostrar el mayor de ellos.
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Ingrese 1° número: ");
 		int n1=sc.nextInt();

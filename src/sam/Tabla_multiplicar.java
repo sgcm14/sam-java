@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Tabla_multiplicar {
 
 	public static void main(String[] args) {
-		// 3.	Mostrar su tabla de multiplicar del numero 5.
+		// 3.	Mostrar su Tabla de multiplicar del numero 5.
 		int numero=0;
 		Scanner sc= new Scanner (System.in);
 		
